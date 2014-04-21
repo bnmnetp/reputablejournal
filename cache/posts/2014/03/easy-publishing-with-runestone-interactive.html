@@ -1,0 +1,33 @@
+<p>During my January travels, I also converted this blog from tubmlr, which had been frustrating me for a while, to Octopress, with which I have been very happy.  Nothing like hacker level control of your own blog.  But more, than just the switch in tools, the move to Octopress inspired me to make it easier for people to publish small or large works using the Runestone tools.</p>
+<p>Yesterday, at the Learning @ Scale conference we demoed this new capability.  See <a href="http://runestoneinteractive.org/LearningAtScal">the demo here</a>.  To make it super easy to publish:</p>
+<ul>
+<li>Lecture slides</li>
+<li>Demonstrations</li>
+<li>A Tutorial</li>
+<li>Lab Instructions</li>
+<li>In class exercises</li>
+<li>A short module on your favorite topic not covered elsewhere</li>
+<li>An entire book</li>
+</ul>
+<!-- TEASER_END -->
+
+<h3>Building</h3>
+<p>You can simply follow the instructions at this new repository:  <a href="http://github.com/RunestoneInteractive/RunestoneTools">github.com/RunestoneInteractive/RunestoneTools</a>.  In a nutshell:</p>
+<ol>
+<li>Install Sphinx, paver, and paverutils using pip.</li>
+<li>Clone the repository</li>
+<li>Edit the index.rst file in source, and add any additional rst files you may want, depending on how complex your project is.</li>
+<li>run <code>paver build</code></li>
+</ol>
+<h3>Deploying</h3>
+<p>Now you have a choice.  In the build directory you have a nice self contained set of html files, these files are set up to make use of the runestone server invisibly in the background.  The static html can be served from any web server.  Just drop in the build directory and you are ready to serve.  OR, you can now host and deploy your project using <strong>GitHub Pages</strong>.  To host on github pages you need to do three things.</p>
+<ol>
+<li>Create an empty repository in your github account.</li>
+<li>run <code>paver setup_github_pages</code> and paste in the URL of the new account.</li>
+<li>run paver deploy</li>
+</ol>
+<p>Now your pages will be available at:  http://youraccount.github.io/YourRepo
+If you want to host these pages behind a custom domain name, you can follow the instructions on github for doing so.  Hint:  Its really easy.</p>
+<p>I hope this new capability will inspire lots of people to give these tools a try.  I also hope that we can build a repository of resources built with the tools, so that we can all share our teaching ideas.  Stay tuned for more on that.</p>
+<h3>Caveats</h3>
+<p>All of the features, activecode, codelens, assessment questions, parson's problems, <a href="http://interactivepython.org/overview/overview.html">and more</a> work just fine.  The major thing that will not work (yet!) is the login/logout.  I need to rework our authentication system in order for this to work.  This will for sure need to happen before the end of summer.</p>

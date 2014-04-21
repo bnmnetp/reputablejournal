@@ -1,0 +1,341 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>publications - A Reputable Journal</title>
+  <meta name="author" content="Brad Miller">
+
+  
+  <meta name="description" content="Publications Jan 11th, 2014 Runestone Interactive: tools for creating interactive course materials, Brad Miller and David Ranum, Learning @ Scale &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://reputablejournal.com/publications/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="A Reputable Journal" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32638348-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:reputablejournal.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+    <li><a href="/">
+        <span class="blue_light">
+            A Reputable Journal
+        </span>
+       
+           <span class="blue_dark">
+             ~ A Blog you can Trust
+           </span>
+       
+    </a></li>
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/about">About me</a></li>
+  <li><a href="/publications">Publications</a></li>  
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article role="article">
+  
+  <header>
+    <h1 class="entry-title">Publications</h1>
+    <p class="meta">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-01-11T12:52:00-06:00" pubdate data-updated="true">Jan 11<span>th</span>, 2014</time></p>
+  </header>
+  
+  <p><strong><a href="http://dl.acm.org/ft_gateway.cfm?id=2567887&type=pdf&coll=DL&dl=GUIDE&CFID=429879333&CFTOKEN=90111152">Runestone Interactive: tools for creating interactive course materials</a></strong>, Brad Miller and David Ranum, Learning @ Scale 2014:  <i>Proceedings of the first ACM conference on Learning @ Scale</i>, March 2014.</p>
+
+
+<p><strong><a href="http://dl.acm.org/ft_gateway.cfm?id=2543886&type=pdf&coll=DL&dl=GUIDE&CFID=429879333&CFTOKEN=90111152">Requirements and design strategies for open source interactive computer science eBooks</a></strong>,
+Ari Korhonen, Thomas Naps, Charles Boisvert, Pilu Crescenzi, Ville Karavirta, Linda Mannila, Bradley Miller, Briana Morrison, Susan H. Rodger, Rocky Ross, Clifford A. Shaffer, <i>Proceedings of the ITiCSE working group reports conference on Innovation and technology in computer science education</i>, June 2013.</p>
+
+
+<p><strong><a href="http://interactivepython.org">How to Think Like a Computer Scientist: Interactive Edition</a></strong></p>
+
+
+<p><strong><a href="http://interactivepython.org">Problem Solving with Algorithms and Data Structures: Interactive Edition</a></strong></p>
+
+
+<p><strong><a href="http://smartech.gatech.edu/xmlui/handle/1853/45044" title="Performance and Use Evaluation of an Electronic Book for Introductory Python Programming">Performance and Use Evaluation of an Electronic Book for Introductory Python Programming</a>, Christine Alvarado, Briana Morrison, Barbara Ericson, Mark Guzdial, Brad Miller, and David Ranum</strong></p>
+
+
+<p><strong><a href="http://dl.acm.org/citation.cfm?id=2325296.2325335&amp;coll=DL&amp;dl=GUIDE&amp;CFID=124332656&amp;CFTOKEN=17973045" title="Beyond PDF and ePub: Toward an Interactive Textbook">Beyond PDF and ePub: Toward an Interactive Textbook</a>, Bradley N. Miller and David L. Ranum; Proceedings of the 17th ACM conference on innovation and technology in computer science education, July 2012.</strong></p>
+
+
+<p><a href="http://Papers/paper20.pdf"><strong>Teaching an Introductory Sequence in Python,</strong></a>Bradley N. Miller, David L. Ranum, Midwest Instruction and Computing Symposium, April 8&nbsp;2005</p>
+
+
+<p><a href="http://portal.acm.org/citation.cfm?id=1010618&amp;coll=Portal&amp;dl=GUIDE&amp;CFID=33010236&amp;amp%5C%0D%0A;CFTOKEN=16098598"> <strong>PocketLens: Toward a Personal Recommender System</strong></a>. Bradley N. Miller, Joe Konstan, John Riedl. ACM Transactions on Information Systems (TOIS). Volume 22, Issue 3 (July 2004) Pages 437-476</p>
+
+
+<p><strong><a href="http://Papers/thesis.pdf">Toward a Personal Recommender System</a></strong>. Bradley N. Miller, PhD Thesis, University of Minnesota, January 2003.</p>
+
+
+<p><strong><a href="http://Papers/hci03.pdf">MovieLens Unplugged: Experiences with a Recommender System on Four Mobile Devices</a></strong><a href="http://Papers/">,</a> Bradley Miller, Istvan Albert, Shyong K. Lam, Joseph A. Konstan, John Riedl, <em>Human Computer Interfaces (HCI&rsquo;03)</em> September 2003</p>
+
+
+<p><strong><a href="http://Papers/iui03-mlu.pdf">MovieLens Unplugged: Experiences with an Occasionally Connected Recommender System</a></strong>, Bradley N. Miller, Istvan Albert, Shyong K. Lam, Joseph A. Konstan, John Riedl <em>ACM Intelligent User Interfaces (IUI&rsquo;03)</em>, January 2003.</p>
+
+
+<p class="c2"><strong><a href="http://Papers/sis.pdf">Experiences in Applying Collaborative Filtering to a Social Information System</a>,</strong> Brad Miller, John Riedl, and Joseph Konstan <em>From Usenet to CoWebs: Interacting with Social Information Spaces</em> Christopher Lueg, Danyel Fisher, eds., Springer Verlag 2002.</p>
+
+
+<p class="c2"><strong><a href="http://Papers/filterbot-CSCW98.pdf">Using Filtering Agents to Improve Prediction Quality in the GroupLens Research Collaborative Filtering System</a>,</strong> Badrul Sarwar, Joseph Konstan, Al Borchers, John Herlocker, Brad Miller, and John Riedl <em>Proceedings of the 1998 Conference on Computer Supported Cooperative Work</em> 1998.</p>
+
+
+<p class="c2"><strong><a href="http://Papers/CACM97.pdf">GroupLens: Collaborative Filtering for Usenet News</a></strong><a href="http://Papers/">,</a> Joseph Konstan, Brad Miller, David Maltz, Lee Gordon and John Riedl <em>Communications of the ACM</em>, March 1997.</p>
+
+
+<p class="c2"><strong><a href="http://Papers/usenix97.pdf">Experiences with GroupLens: Making Usenet Useful Again</a></strong>, B. Miller, J. Riedl, J. Konstan <em>Usenix Technical Conference</em>, January, 1997.</p>
+
+
+<p class="c2"><strong>A Zoomable DBMS for Brain Structure, Function and Behavior</strong>, J. Riedl, A. Georgopoulos, G.Wilcox, R. Elde, J. Pardo, K. Ugurbil, E. Retzel, J. Maguire, B. Miller, M. Claypool, T. Brelje, C. Honda <em>International Conference on Applications of Databases</em>, June, 1994.</p>
+
+
+<p class="c2"><strong>Network Requirements for 3D Flying in a Zoomable Brain Database</strong>, M. Claypool, J. Carlis, G. Wilcox, R. Elde, A. Georgeopolous, J. Pardo, K. Ugurbil, J. Maguire, B. Miller, T. Brelje, C. Honda <em>IEEE Journal on Selected Areas in Communications</em>, June 1995.</p>
+
+
+<p class="c2"><strong>Heuristic Scenario Builder for Power System Operator Training</strong>, G. Irisarri, M. Rafian, B. Miller <em>Proceedings of the IEEE</em>, May 1992.</p>
+
+
+<p class="c2"><strong>Controlling Power Systems During Emergencies: the Role of Expert Systems</strong>, D. Kirschen, B. Wollenberg, G. Irisarri, B. Miller <em>Computer Applications in Power</em>, May 1989.</p>
+
+
+  
+    <footer>
+      <p class="meta">
+        
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-01-11T12:52:00-06:00" pubdate data-updated="true">Jan 11<span>th</span>, 2014</time>
+        
+      </p>
+      
+        <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://reputablejournal.com/publications/index.html" data-via="bnmnetp" data-counturl="http://reputablejournal.com/publications/index.html" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+      
+    </footer>
+  
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/04/02/why-moocs-why-not/">Why MOOCs? Why not?</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/03/26/winter-skiing-in-the-spring/">Winter Skiing in the Spring</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/03/25/lake-tahoe/">Lake Tahoe</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/03/23/the-word-of-the-day-is-malolactic/">The Word of the Day is Malolactic</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/03/08/the-long-winter/">The Long Winter</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>About Me</h1>
+  <img  src="/images/head_shot_2013.jpg" width="100%" />
+  <p>Brad Miller is an Associate Professor of Computer Science at <a href="http://www.luther.edu">Luther College</a> He is the founder of <a href="http://runestoneinteractive.org">Runestone Interactive</a>. He loves to travel, hack, bike and cook. Not necessarily in that order.</p>
+</section>
+<section>
+  <h1>Tag Cloud</h1>
+    <span id="tag-cloud"><a href='/blog/categories/alaska' style='font-size: 100.96774193548387%'>alaska(1)</a> <a href='/blog/categories/applications' style='font-size: 100.96774193548387%'>Applications(1)</a> <a href='/blog/categories/biking' style='font-size: 105.80645161290323%'>biking(6)</a> <a href='/blog/categories/books' style='font-size: 100.96774193548387%'>Books(1)</a> <a href='/blog/categories/cabin' style='font-size: 100.96774193548387%'>cabin(1)</a> <a href='/blog/categories/cabin' style='font-size: 100.96774193548387%'>Cabin(1)</a> <a href='/blog/categories/cooking' style='font-size: 100.96774193548387%'>cooking(1)</a> <a href='/blog/categories/education' style='font-size: 103.87096774193549%'>education(4)</a> <a href='/blog/categories/emacs' style='font-size: 100.96774193548387%'>Emacs(1)</a> <a href='/blog/categories/friends' style='font-size: 100.96774193548387%'>friends(1)</a> <a href='/blog/categories/interactivepython' style='font-size: 100.96774193548387%'>interactivepython(1)</a> <a href='/blog/categories/israel' style='font-size: 101.93548387096774%'>israel(2)</a> <a href='/blog/categories/josh-martin-at-heroes-acre' style='font-size: 100.96774193548387%'>Josh Martin at Heroe's Acre(1)</a> <a href='/blog/categories/jterm11' style='font-size: 116.45161290322581%'>Jterm11(17)</a> <a href='/blog/categories/jterm14' style='font-size: 111.61290322580645%'>JTerm14(12)</a> <a href='/blog/categories/lake' style='font-size: 100.96774193548387%'>lake(1)</a> <a href='/blog/categories/mac' style='font-size: 101.93548387096774%'>Mac(2)</a> <a href='/blog/categories/namibia' style='font-size: 115.48387096774194%'>namibia(16)</a> <a href='/blog/categories/photography' style='font-size: 101.93548387096774%'>photography(2)</a> <a href='/blog/categories/python' style='font-size: 110.64516129032258%'>Python(11)</a> <a href='/blog/categories/python' style='font-size: 109.6774193548387%'>python(10)</a> <a href='/blog/categories/runestone' style='font-size: 100.96774193548387%'>runestone(1)</a> <a href='/blog/categories/runestoneinteractive' style='font-size: 100.96774193548387%'>runestoneinteractive(1)</a> <a href='/blog/categories/siliconvalley' style='font-size: 102.90322580645162%'>SiliconValley(3)</a> <a href='/blog/categories/southamerica2011' style='font-size: 112.58064516129032%'>SouthAmerica2011(13)</a> <a href='/blog/categories/teaching' style='font-size: 100.96774193548387%'>teaching(1)</a> <a href='/blog/categories/travel' style='font-size: 124.19354838709677%'>travel(25)</a> <a href='/blog/categories/travel' style='font-size: 160.0%'>Travel(62)</a> <a href='/blog/categories/wine' style='font-size: 100.96774193548387%'>wine(1)</a> </span>
+</section>
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/+BradMillerNorse?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/bnmnetp"  data-widget-id=""  data-link-color="#1863a1" data-tweet-limit="" data-chrome="noheader nofooter transparent noscrollbar">Tweets by @bnmnetp</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </ul>
+  
+    <p>Follow <a href="http://twitter.com/bnmnetp">@bnmnetp</a></p>
+  
+</section>
+
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/bnmnetp">@bnmnetp</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'bnmnetp',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Brad Miller -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
