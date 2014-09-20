@@ -86,10 +86,10 @@ TRANSLATIONS_PATTERN = "{path}.{ext}.{lang}"
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/stories/about.html','About'),        
+        ('/stories/about.html','About'),
         ('/archive.html', 'Archives'),
         ('/categories/index.html', 'Tags'),
-        ('/rss.xml', 'RSS'),
+#        ('/rss.xml', 'RSS'),
         ('/galleries','Photos'),
         ('/stories/publications.html','Publications')
 #        ((('/stories/publications.html','Publications'),('/stories/publications.html','Bar')),'pages')
@@ -339,8 +339,9 @@ GALLERY_SORT_BY_DATE = True
                              # the main (the newest) index page (index.html)
 
 # Name of the theme to use.
-#THEME = "ipython-xkcd"
 THEME = "my_theme"
+#THEME = "bootstrap3-jinja"
+#THEME = "ipython"
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
@@ -543,20 +544,20 @@ HIDE_SOURCELINK = True
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
 #
-SEARCH_FORM = """
-<!-- Custom search -->
-<form method="get" id="search" action="http://duckduckgo.com/"
-class="navbar-form pull-left">
-<input type="hidden" name="sites" value="%s"/>
-<input type="hidden" name="k8" value="#444444"/>
-<input type="hidden" name="k9" value="#D51920"/>
-<input type="hidden" name="kt" value="h"/>
-<input type="text" name="q" maxlength="255"
-placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
-<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-</form>
-<!-- End of custom search -->
-""" % SITE_URL
+# SEARCH_FORM = """
+# <!-- Custom search -->
+# <form method="get" id="search" action="http://duckduckgo.com/"
+# class="navbar-form pull-left">
+# <input type="hidden" name="sites" value="%s"/>
+# <input type="hidden" name="k8" value="#444444"/>
+# <input type="hidden" name="k9" value="#D51920"/>
+# <input type="hidden" name="kt" value="h"/>
+# <input type="text" name="q" maxlength="255"
+# placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
+# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+# </form>
+# <!-- End of custom search -->
+# """ % SITE_URL
 #
 # If you prefer a google search form, here's an example that should just work:
 #SEARCH_FORM = """

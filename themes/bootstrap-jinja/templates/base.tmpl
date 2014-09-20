@@ -1,28 +1,17 @@
 {#  -*- coding: utf-8 -*- #}
 {% import 'base_helper.tmpl' as base with context %}
-{% import 'bootstrap_helper.tmpl' as bootstrap with context %}
 {% import 'annotation_helper.tmpl' as notes with context %}
 {{ set_locale(lang) }}
-<!DOCTYPE html>
-<html
-{% if comment_system == 'facebook' %}
-xmlns:fb="http://ogp.me/ns/fb#"
-{% endif %}
-lang="{{ lang }}">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{ bootstrap.html_head() }}
-    {% block extra_head %}
-    {% endblock %}
-    {% if annotations and post and not post.meta('noannotations') %}
-        {{ notes.css() }}
-    {% elif not annotations and post and post.meta('annotations') %}
-        {{ notes.css() }}
-    {% endif %}
-    {{ extra_head_data }}
+{{ base.html_headstart() }}
+{% block extra_head %}
+{#  Leave this block alone. #}
+{% endblock %}
+{{ template_hooks['extra_head']() }}
 </head>
 <body>
+
 <!-- Menubar -->
+
 <div class="navbar navbar-fixed-top" id="navbar">
     <div class="navbar-inner">
         <div class="container">
@@ -35,12 +24,19 @@ lang="{{ lang }}">
         </a>
 
             <a class="brand" href="{{ abs_link('/') }}">
-            {{ blog_title }}
+            {% if logo_url %}
+                <img src="{{ logo_url }}" alt="{{ blog_title }}" id="logo">
+            {% endif %}
+
+            {% if show_blog_title %}
+                <span id="blog-title">{{ blog_title }}</span>
+            {% endif %}
             </a>
             <!-- Everything you want hidden at 940px or less, place within here -->
             <div class="nav-collapse collapse">
                 <ul class="nav">
-                    {{ bootstrap.html_navigation_links() }}
+                    {{ base.html_navigation_links() }}
+                    {{ template_hooks['menu']() }}
                 </ul>
                 {% if search_form %}
                     {{ search_form }}
@@ -51,9 +47,10 @@ lang="{{ lang }}">
                     <li>{{ base.html_translations() }}</li>
                 {% endif %}
                 {% endblock %}
-                {% if not hide_sourcelink %}
+                {% if show_sourcelink %}
                     <li>{% block sourcelink %}{% endblock %}</li>
                 {% endif %}
+                {{ template_hooks['menu_alt']() }}
                 </ul>
             </div>
         </div>
@@ -65,6 +62,7 @@ lang="{{ lang }}">
     <div class="row-fluid">
     <div class="span2"></div>
     <div class="span8">
+    {{ template_hooks['page_header']() }}
     {% block content %}{% endblock %}
     </div>
     </div>
@@ -72,23 +70,17 @@ lang="{{ lang }}">
 </div>
 <div class="footerbox">
     {{ content_footer }}
+    {{ template_hooks['page_footer']() }}
 </div>
-{{ bootstrap.late_load_js() }}
-{{ base.html_social() }}
-    <script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
-    $(window).on('hashchange', function(){
-        if (location.hash && $(location.hash)[0]) {
-            $('body').animate({scrollTop: $(location.hash).offset().top - $('#navbar').outerHeight(true)*1.2 }, 1);
-        }
-    });
-    $(document).ready(function(){$(window).trigger('hashchange')});
-    </script>
+{{ base.late_load_js() }}
+    <script>jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
     {% block extra_js %}{% endblock %}
     {% if annotations and post and not post.meta('noannotations') %}
         {{ notes.code() }}
     {% elif not annotations and post and post.meta('annotations') %}
         {{ notes.code() }}
     {% endif %}
-    {{ body_end }}
+{{ body_end }}
+{{ template_hooks['body_end']() }}
 </body>
 </html>
