@@ -24,7 +24,8 @@ So, I googled "javascript todo list."  Here's what I found.
 
 And on it goes.
 
-The problem is all of these examples are way beyond where we are at, and are all using techniques different from the simple techniques that I have taught them in class.  So rather than being a help, Google is ending up sending these students into a rabbit hole that they are not equipped to recover from.  The more I thought about it, the more I realized how often this probably happens in other introductory CS courses.  
+The problem is all of these examples are way beyond where we are at, and are all using techniques different from the simple techniques that I have taught them in class.  So rather than being a help, Google is ending up sending these students into a rabbit hole from which they are not equipped to find their way out.  The more I thought about it, the more I realized how often this probably happens in other introductory CS courses.  
+
 
 Forty Two Says Deep Thought
 ---------------------------
@@ -35,7 +36,8 @@ The problem isn't that google is bad, the problem is that these students are not
 * Do I outlaw using Google to get hints?  
 * Should I point them at some resources that are more appropriate?
 * Should I be spending time teaching them the appropriate ways to search for help?
+* Start a project to create a StackOverflow like site for computer science students that would give an answer appropriate to the students skill level?
 
-
-
+Googling and using StackOverflow are good skills for a computer scientist to have, but for the first time, I'm thinking that teaching some search engine literacy in computer science may be worth some time.  
+I'm very interested to hear the experiences of my other colleagues.
 
