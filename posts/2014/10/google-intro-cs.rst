@@ -18,9 +18,9 @@ So I asked a few of them how they found this stuff.  They said "I googled javasc
 
 So, I googled "javascript todo list."  Here's what I found.
 
-* Top hit [TodoMVC](http://todomvc.com)  -- Nope, we are not ready for MVC yet at all.
-* Next [Building a Todo List with jQuery and localStorage](http://www.sitepoint.com/building-list-jquery-local-storage/)  Nope, we are not going down the jQuery path either.
-* Next [stackexchange - building a simple todolist application](http://codereview.stackexchange.com/questions/43255/simple-to-do-list-as-a-single-page-application)  -- This one starts out by creating a TaskList object and then a Task object, and so forth.  Again this is much more complicated than we are ready for.
+* Top hit `TodoMVC <http://todomvc.com>`_  -- Nope, we are not ready for MVC yet at all.
+* Next `Building a Todo List with jQuery and localStorage <http://www.sitepoint.com/building-list-jquery-local-storage/>`_  Nope, we are not going down the jQuery path either.
+* Next `stackexchange - building a simple todolist application <http://codereview.stackexchange.com/questions/43255/simple-to-do-list-as-a-single-page-application>`_  -- This one starts out by creating a TaskList object and then a Task object, and so forth.  Again this is much more complicated than we are ready for.
 
 And on it goes.
 
