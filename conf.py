@@ -248,7 +248,8 @@ REDIRECTIONS = [("publications/index.html","/stories/publications.html")]
 # And then do a backup, or run `nikola ping` from the `ping`
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
-DEPLOY_COMMANDS = ['./dodeploy.sh']
+DEPLOY_COMMANDS = {'default': ['./dodeploy.sh']}
+
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
