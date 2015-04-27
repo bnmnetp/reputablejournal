@@ -11,6 +11,7 @@ import datetime
 # Data about this site
 BLOG_AUTHOR = "Brad Miller"
 BLOG_TITLE = "A Reputable Journal"
+#LOGO_URL = "/images/square_head.jpeg"
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://reputablejournal.com/"
@@ -146,6 +147,8 @@ PAGES = (
 ("stories/*.html", "stories", "story.tmpl"),
 )
 
+WRITE_TAG_CLOUD = True
+
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
@@ -248,13 +251,13 @@ REDIRECTIONS = [("publications/index.html","/stories/publications.html")]
 # And then do a backup, or run `nikola ping` from the `ping`
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
-DEPLOY_COMMANDS = {'default': ['./dodeploy.sh']}
+DEPLOY_COMMANDS = {'default': ['rsync -rav --delete output/ /usr/share/nginx/html']}
 
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
 # to the location of conf.py
-# OUTPUT_FOLDER = 'output'
+OUTPUT_FOLDER = 'output'
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
@@ -318,7 +321,7 @@ DEPLOY_COMMANDS = {'default': ['./dodeploy.sh']}
 
 # Galleries are folders in galleries/
 # Final location of galleries will be output / GALLERY_PATH / gallery_name
-GALLERY_PATH = "galleries"
+GALLERY_FOLDERS = {"galleries": "galleries"}
 THUMBNAIL_SIZE = 180
 MAX_IMAGE_SIZE = 1280
 USE_FILENAME_AS_TITLE = True
@@ -404,12 +407,12 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # To use comments, you can choose between different third party comment
 # systems, one of "disqus", "livefyre", "intensedebate", "moot",
 #                 "googleplus", "facebook" or "isso"
-COMMENT_SYSTEM = "googleplus"
+COMMENT_SYSTEM = "disqus"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "bnmnetp"
+COMMENT_SYSTEM_ID = "reputablejournal"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
@@ -504,7 +507,12 @@ COMMENT_SYSTEM_ID = "bnmnetp"
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
-# SOCIAL_BUTTONS_CODE = """
+SOCIAL_BUTTONS_CODE = """
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-553bcb107aed7add" async="async"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox"></div>
+"""
 # <!-- Social buttons -->
 # <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
 # <a class="addthis_button_more">Share</a>
@@ -592,7 +600,13 @@ placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
 # </script>
 # """
 
-# EXTRA_HEAD_DATA = """
+EXTRA_HEAD_DATA = """
+<!-- include jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<!-- include Cycle2 -->
+<script src="/jquery.cycle2.js"></script>
+"""
 # <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
 # <div id="tipue_search_content" style="margin-left: auto; margin-right: auto; padding: 20px;"></div>
 # """

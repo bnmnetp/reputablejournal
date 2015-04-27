@@ -1,6 +1,6 @@
 <!--
 .. title: How Many Trees in the State of Washington?
-.. date: 2014/01/09 10:59:31 /0800
+.. date: 2014/01/09 10:59:31
 .. slug: last-day-in-seattle
 .. tags: Jterm14, Travel
 .. link: 

@@ -1,6 +1,6 @@
 <!--
 .. title: Applied Math and Physics
-.. date: 2014/01/22 10:38:12 /0800
+.. date: 2014/01/22 10:38:12
 .. slug: applied-math-and-physics
 .. tags: Travel, Jterm14
 .. link: 

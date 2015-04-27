@@ -1,6 +1,6 @@
 <!--
 .. title: Easy Publishing with Runestone Interactive
-.. date: 2014/03/05 08:19:04 /0500
+.. date: 2014/03/05 08:19:04
 .. slug: easy-publishing-with-runestone-interactive
 .. tags: Python, Runestone
 .. link: 

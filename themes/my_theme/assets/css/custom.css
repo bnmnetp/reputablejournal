@@ -1,0 +1,10 @@
+.body-content {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    font-family: 'Avenir Next', Avenir, Arial, sans-serif;
+    font-size: 12pt;
+}

@@ -1,5 +1,5 @@
 .. title: Winter Skiing in the Spring
-.. date: 2014/03/26 19:18:11 /0500
+.. date: 2014/03/26 19:18:11
 .. slug: winter-skiing-in-the-spring
 .. tags: Travel
 .. link:

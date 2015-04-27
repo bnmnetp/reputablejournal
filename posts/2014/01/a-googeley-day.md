@@ -1,6 +1,6 @@
 <!--
 .. title: The Social Implications of a Self-Driving Car
-.. date: 2014/01/18 10:40:14 /0800
+.. date: 2014/01/18 10:40:14
 .. slug: a-googeley-day
 .. tags: Jterm14, Travel
 .. link: 

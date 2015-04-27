@@ -1,6 +1,6 @@
 <!--
 .. title: Changing the World, JTerm 2014
-.. date: 2014/01/14 09:07:18 /0800
+.. date: 2014/01/14 09:07:18
 .. slug: notes-from-the-road
 .. tags: Jterm14, Travel
 .. link: 

@@ -1,5 +1,5 @@
 .. title: Lake Tahoe
-.. date: 2014/03/25 19:26:08 /0500
+.. date: 2014/03/25 19:26:08
 .. slug: lake-tahoe
 .. tags: Travel
 .. link: 

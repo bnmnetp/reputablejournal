@@ -1,6 +1,6 @@
 <!--
 .. title: Final Visits
-.. date: 2014/01/25 16:29:17 /0800
+.. date: 2014/01/25 16:29:17
 .. slug: final-visits
 .. tags: Jterm14, Travel
 .. link: 

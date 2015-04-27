@@ -1,6 +1,6 @@
 <!--
 .. title: Student Blogs
-.. date: 2014/01/13 16:35:04 /0800
+.. date: 2014/01/13 16:35:04
 .. slug: student-blogs
 .. tags: Jterm14
 .. link: 

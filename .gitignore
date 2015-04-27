@@ -2,3 +2,6 @@ __pycache__
 .ipynb_checkpoints
 output
 cache
+*~
+*.pyc
+.doit.db

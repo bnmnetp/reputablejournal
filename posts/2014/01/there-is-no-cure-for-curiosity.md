@@ -1,6 +1,6 @@
 <!--
 .. title: There is no Cure for Curiosity
-.. date: 2014/01/14 08:07:07 /0800
+.. date: 2014/01/14 08:07:07
 .. slug: there-is-no-cure-for-curiosity
 .. tags: Jterm14
 .. link: 

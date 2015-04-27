@@ -1,6 +1,6 @@
 <!--
 .. title: JTerm 2014 - Day 1 at Amazon
-.. date: 2014/01/08 17:08:03 /0800
+.. date: 2014/01/08 17:08:03
 .. slug: jterm-2014-day-1-at-amazon
 .. tags: Travel, Teaching
 .. link: 

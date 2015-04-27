@@ -1,6 +1,6 @@
 <!--
 .. title: Reflections on January 2014
-.. date: 2014/02/01 10:28:00 /0800
+.. date: 2014/02/01 10:28:00
 .. slug: reflections-on-jterm-2014
 .. tags: Jterm14, Travel
 .. link: 

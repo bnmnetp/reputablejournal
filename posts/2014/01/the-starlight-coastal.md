@@ -1,6 +1,6 @@
 <!--
 .. title: The Starlight Coastal
-.. date: 2014/01/10 17:47:25 /0800
+.. date: 2014/01/10 17:47:25
 .. slug: the-starlight-coastal
 .. tags: Jterm14, Travel
 .. link: 

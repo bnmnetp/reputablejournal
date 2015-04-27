@@ -1,6 +1,6 @@
 <!--
 .. title: A Lesson in Venture Capital
-.. date: 2014/01/17 11:13:15 /0800
+.. date: 2014/01/17 11:13:15
 .. slug: a-lesson-in-venture-capital
 .. tags: Jterm14, Travel
 .. link: 

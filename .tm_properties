@@ -1,0 +1,13 @@
+# Settings
+theme            = 38E819D9-AE02-452F-9231-ECC3B204AFD7
+fontName         = AvenirNext-Regular
+fontSize         = 18
+fileBrowserGlob  = "{*,.tm_properties,.htaccess}"
+showInvisibles   = false
+
+# Variables
+
+[ *.md ]
+fontName         = AvenirNext-Regular
+fontSize         = 18
+showInvisibles   = false

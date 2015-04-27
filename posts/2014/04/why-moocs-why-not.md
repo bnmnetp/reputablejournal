@@ -1,6 +1,6 @@
 <!--
 .. title: Why MOOCs? Why not?
-.. date: 2014/04/02 16:51:30 /0500
+.. date: 2014/04/02 16:51:30
 .. slug: why-moocs-why-not
 .. tags: Education
 .. link: 

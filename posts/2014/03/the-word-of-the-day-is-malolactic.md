@@ -1,6 +1,6 @@
 <!--
 .. title: The Word of the Day is Malolactic
-.. date: 2014/03/23 22:14:05 /0500
+.. date: 2014/03/23 22:14:05
 .. slug: the-word-of-the-day-is-malolactic
 .. tags: Travel, Wine
 .. link: 

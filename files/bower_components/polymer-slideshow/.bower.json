@@ -1,0 +1,33 @@
+{
+  "name": "polymer-slideshow",
+  "homepage": "https://github.com/Iverum/polymer-slideshow",
+  "authors": [
+    "Blake Hair <blake.hair@gmail.com>"
+  ],
+  "description": "A Polymer element for slideshows",
+  "keywords": [
+    "Polymer",
+    "web-components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.5.5"
+  },
+  "_release": "6e33bc4d4f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6e33bc4d4f2204fb6acd499f52b0caeb2bbc63b7"
+  },
+  "_source": "git://github.com/Iverum/polymer-slideshow.git",
+  "_target": "master",
+  "_originalSource": "Iverum/polymer-slideshow",
+  "_direct": true
+}

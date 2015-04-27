@@ -1,6 +1,6 @@
 <!--
 .. title: Transportation Cogitation
-.. date: 2014/01/20 19:28:44 /0800
+.. date: 2014/01/20 19:28:44
 .. slug: transportation-cogitation
 .. tags: Travel, Jterm14
 .. link: 

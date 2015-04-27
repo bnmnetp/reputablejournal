@@ -1,6 +1,6 @@
 <!--
 .. title: On 14 inches of Powder
-.. date: 2014/01/30 15:45:02 /0700
+.. date: 2014/01/30 15:45:02
 .. slug: on-14-inches-of-powder
 .. tags: Travel
 .. link: 

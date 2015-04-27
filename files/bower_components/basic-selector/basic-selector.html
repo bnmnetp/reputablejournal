@@ -1,0 +1,102 @@
+<!--
+Extends core-selector to support easier composition:
+
+* The component can handle reprojected content. This lets you include a content
+  element within the selector and select the distributed nodes rather than the
+  content element itself.
+
+* By default, this component also ignores any template elements in the content,
+  making it easy to use templates to expand out a list of choices.
+
+* This component generates property change notifications on the "items" property
+  if content is added or removed at runtime, so you can bind to "items".
+
+This component also includes basic support for ARIA representation of selected
+state. An item's "aria-selected" attribute will be true if the item is selected,
+and false otherwise.
+
+@element basic-selector
+-->
+
+<link rel="import" href="../core-selector/core-selector.html">
+<script src="../basic-helpers/BasicContentHelpers.js"></script>
+
+<polymer-element name="basic-selector" extends="core-selector">
+<script>
+Polymer( Platform.mixin({
+
+  // Override the base applySelection implementation to also update the
+  // aria-selected attribute at the same time.
+  applySelection: function( item, isSelected ) {
+    this.super([ item, isSelected ]);
+    item.setAttribute( "aria-selected", isSelected );
+  },
+
+  attached: function() {
+    this.super();
+    this.observeContentChanges();
+  },
+
+  contentChanged: function() {
+
+    // Perform per-item initialization.
+    this.items.forEach( function( item ) {
+      // If the item doesn't have an aria-selected member, we assume we haven't
+      // initialized it yet.
+      if ( !item.getAttribute( "aria-selected" )) {
+        this._itemAdded( item );
+      }
+    }.bind( this ));
+
+    // If our contents change, then our items property implicitly changes too.
+    if ( Object.getNotifier ) {
+      Object.getNotifier( this ).notify({
+        type: "update",
+        name: "items"
+      });
+    }
+  },
+
+  detached: function() {
+    this.super();
+    this.observeContentChanges(false);
+  },
+
+  excludedLocalNames: "template",
+
+  /**
+   * Returns an array of the items that can be selected.
+   *
+   * This override's the items property of core-selector so that it can handle
+   * redistributed content.
+   *
+   * @property items
+   */
+  // TODO: Handle selectors, etc., like base class' items can.
+  get items() {
+    var flattened = this.flattenChildren;
+    var filtered = Array.prototype.filter.call( flattened, this.itemFilter );
+    return filtered;
+  },
+
+  // Override the base implementation of selectedIndex to return -1 if nothing
+  // is selected, which seems more helpful.
+  // TODO: Handle valueattr: selected can indicate a value, not the index.
+  get selectedIndex() {
+    var index = this.selected;
+    return index || -1;
+  },
+
+  // The indicated item is a new child element. Perform any required
+  // initialization on it. Subclasses can override this to perform additional
+  // initialization, taking care to call super().
+  _itemAdded: function( item ) {
+    // Ensure aria-selected value matches the selection state indicated by
+    // the presence of the selected class (which is normally "core-selected").
+    var selected = item.classList.contains( this.selectedClass );
+    item.setAttribute( "aria-selected", selected );
+  }
+
+}, BasicContentHelpers));
+</script>
+</polymer-element>

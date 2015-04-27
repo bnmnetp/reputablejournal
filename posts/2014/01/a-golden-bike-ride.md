@@ -1,6 +1,6 @@
 <!--
 .. title: A Golden Bike Ride
-.. date: 2014/01/12 15:08:31 /0800
+.. date: 2014/01/12 15:08:31
 .. slug: a-golden-bike-ride
 .. tags: Jterm14, Travel
 .. link: 

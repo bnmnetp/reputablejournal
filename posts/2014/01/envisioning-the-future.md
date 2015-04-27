@@ -1,6 +1,6 @@
 <!--
 .. title: Envisioning the Future
-.. date: 2014/01/08 12:38:25 /0800
+.. date: 2014/01/08 12:38:25
 .. slug: envisioning-the-future
 .. tags: Jterm14, Travel
 .. link: 

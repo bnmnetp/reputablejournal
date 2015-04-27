@@ -1,6 +1,6 @@
 <!--
 .. title: The Long Winter
-.. date: 2014/03/08 07:16:03 /0600
+.. date: 2014/03/08 07:16:03
 .. slug: the-long-winter
 .. tags: 
 .. link: 
