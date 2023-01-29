@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://bnmnetp.micro.blog/2023/01/29/i-just-realized.html",
+				
+				"content_html": "<p>I just realized how inconsistent I am&hellip; During the board of regents meeting I strongly advocated for faculty.  But with my developer hat on, I have a different reaction when they ask for some feature to save them time because they are too busy to do it the way I designed it.  Maybe an area of personal growth.</p>\n",
+				"content_text": "I just realized how inconsistent I am... During the board of regents meeting I strongly advocated for faculty.  But with my developer hat on, I have a different reaction when they ask for some feature to save them time because they are too busy to do it the way I designed it.  Maybe an area of personal growth. \n",
+				"date_published": "2023-01-29T15:22:13-08:00",
+				"url": "https://reputablejournal.com/2023/01/29/i-just-realized.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2023/01/24/lets-say-you.html",
+				
+				"content_html": "<p>Lets say you are a teacher, and you know that when you are teaching there are 1000 other classes across the world learning the same material.  How could you capitalize on that?  Would you want your students to interact? If so, what would that look like to you and your students?</p>\n",
+				"content_text": "Lets say you are a teacher, and you know that when you are teaching there are 1000 other classes across the world learning the same material.  How could you capitalize on that?  Would you want your students to interact? If so, what would that look like to you and your students?\n",
+				"date_published": "2023-01-24T17:39:34-08:00",
+				"url": "https://reputablejournal.com/2023/01/24/lets-say-you.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2023/01/24/todays-rabbit-hole.html",
+				
+				"content_html": "<p>Today&rsquo;s rabbit hole was about monorepos and <a href=\"https://polylith.github.io\">polyliths</a>. I really think this is the way to go for <a href=\"https://runestone.academy\">Runestone</a> but before I make the jump I would love to hear from others who have walked this path. Thanks!</p>\n",
+				"content_text": "Today's rabbit hole was about monorepos and [polyliths](https://polylith.github.io). I really think this is the way to go for [Runestone](https://runestone.academy) but before I make the jump I would love to hear from others who have walked this path. Thanks!\n",
+				"date_published": "2023-01-24T17:28:06-08:00",
+				"url": "https://reputablejournal.com/2023/01/24/todays-rabbit-hole.html"
+			},
+			{
 				"id": "http://bnmnetp.micro.blog/2023/01/21/finally-got-to.html",
 				
 				"content_html": "<p>Finally got to play with a Christmas gift today.  My new Ruixin knife sharper, it definitely takes practice, so I haven&rsquo;t tried it on my best knives yet.  But it really helped a couple of the cheap badly dull knives I started with.</p>\n",
