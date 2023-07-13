@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bnmnetp.micro.blog/2023/07/13/feels-so-good.html",
+				
+				"content_html": "<p>Feels so good to be productive! Develop in monorepo setup, deploy with docker.  New feature done and tested in no time.</p>\n",
+				"content_text": "Feels so good to be productive! Develop in monorepo setup, deploy with docker.  New feature done and tested in no time.\n",
+				"date_published": "2023-07-13T11:25:56-05:00",
+				"url": "https://reputablejournal.com/2023/07/13/feels-so-good.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2023/07/11/spent-the-morning.html",
+				
+				"content_html": "<p>Spent the morning chasing down subtleties in nginx configuration.  Some things are just not intuitive. To trail a slash or not to trail a slash, that is the question.</p>\n",
+				"content_text": "Spent the morning chasing down subtleties in nginx configuration.  Some things are just not intuitive. To trail a slash or not to trail a slash, that is the question.\n",
+				"date_published": "2023-07-11T12:47:09-05:00",
+				"url": "https://reputablejournal.com/2023/07/11/spent-the-morning.html"
+			},
+			{
 				"id": "http://bnmnetp.micro.blog/2023/07/07/hey-manton-and.html",
 				
 				"content_html": "<p>Hey <a href=\"https://micro.blog/manton\">@manton</a> and <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> this is a generous theory, but maybe the cage match in question was really referring to twitter vs threads!</p>\n",
