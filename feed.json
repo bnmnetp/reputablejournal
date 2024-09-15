@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://bnmnetp.micro.blog/2024/09/14/years-of-sustainable.html",
+				
+				"content_html": "<p><a href=\"https://about.readthedocs.com/blog/2024/08/10-year-anniversary/\">10 years of sustainable open source - Read the Docs</a></p>\n\n<p>This resonates so strongly with me. I feel like I could have written this about Runestone.</p>\n",
+				"content_text": "[10 years of sustainable open source - Read the Docs](https://about.readthedocs.com/blog/2024/08/10-year-anniversary/)\n\nThis resonates so strongly with me. I feel like I could have written this about Runestone. \n",
+				"date_published": "2024-09-14T21:23:33-05:00",
+				"url": "https://reputablejournal.com/2024/09/14/years-of-sustainable.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2024/09/10/why-do-they.html",
+				
+				"content_html": "<p>Why do they keep turning his mic back on!?!</p>\n",
+				"content_text": "Why do they keep turning his mic back on!?!\n",
+				"date_published": "2024-09-10T21:18:21-05:00",
+				"url": "https://reputablejournal.com/2024/09/10/why-do-they.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2024/09/10/just-a-followup.html",
+				
+				"content_html": "<p>Just a followup post on the DDoS <a href=\"https://blog.runestone.academy/2024/09/10/distributed_denial_of_service_2024.html\">https://blog.runestone.academy/2024/09/10/distributed_denial_of_service_2024.html</a>  Any thoughts on how to be better prepared for the next one are welcome!</p>\n",
+				"content_text": "Just a followup post on the DDoS https://blog.runestone.academy/2024/09/10/distributed_denial_of_service_2024.html  Any thoughts on how to be better prepared for the next one are welcome!\n",
+				"date_published": "2024-09-10T17:04:39-05:00",
+				"url": "https://reputablejournal.com/2024/09/10/just-a-followup.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2024/09/10/spent-the-day.html",
+				
+				"content_html": "<p>Spent the day trying to find ways to fight the DDoS running against Runestone Academy.  I think I have a solution for now, but suggestions are certainly welcome.  Also learned that Digital Ocean&rsquo;s claimed protection is useless for a small site.</p>\n",
+				"content_text": "Spent the day trying to find ways to fight the DDoS running against Runestone Academy.  I think I have a solution for now, but suggestions are certainly welcome.  Also learned that Digital Ocean's claimed protection is useless for a small site.\n",
+				"date_published": "2024-09-10T15:50:20-05:00",
+				"url": "https://reputablejournal.com/2024/09/10/spent-the-day.html"
+			},
+			{
 				"id": "http://bnmnetp.micro.blog/2024/09/07/man-this-usmnt.html",
 				
 				"content_html": "<p>Man, this USMNT match against Canada is awful!  We need Poch!</p>\n",
