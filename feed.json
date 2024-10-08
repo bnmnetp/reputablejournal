@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://bnmnetp.micro.blog/2024/10/08/beautiful-bike-ride.html",
+				
+				"content_html": "<p>Beautiful bike ride this afternoon!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/5380/2024/img-0056.jpeg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "Beautiful bike ride this afternoon!\n\n<img src=\"https://cdn.uploads.micro.blog/5380/2024/img-0056.jpeg\" alt=\"\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2024-10-08T17:53:19-05:00",
+				"url": "https://reputablejournal.com/2024/10/08/beautiful-bike-ride.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2024/10/08/two-scientists-one.html",
+				
+				"content_html": "<blockquote>\n<p>Two scientists — one of them called the “Godfather of AI” — share Nobel prize in physics - BBC News</p>\n</blockquote>\n\n<p>Wow!  Books by these two are among the few that I kept when I cleaned out my office.</p>\n",
+				"content_text": "> Two scientists — one of them called the “Godfather of AI” — share Nobel prize in physics - BBC News\n\nWow!  Books by these two are among the few that I kept when I cleaned out my office. \n",
+				"date_published": "2024-10-08T07:02:12-05:00",
+				"url": "https://reputablejournal.com/2024/10/08/two-scientists-one.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2024/10/04/steam-off-the.html",
+				
+				"content_html": "<p>Steam off the water and a few clouds in the sky on this chilly October morning.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/5380/2024/7811716d-df58-413f-b640-48c455d46f67-4-5005-c.jpeg\" alt=\"7811716D DF58 413F B640 48C455D46F67_4_5005_c.\" width=\"480\" height=\"360\" /></p>\n",
+				"content_text": "Steam off the water and a few clouds in the sky on this chilly October morning.\n\n<img src=\"https://cdn.uploads.micro.blog/5380/2024/7811716d-df58-413f-b640-48c455d46f67-4-5005-c.jpeg\" alt=\"7811716D DF58 413F B640 48C455D46F67_4_5005_c.\" width=\"480\" height=\"360\" />\n",
+				"date_published": "2024-10-04T08:45:39-05:00",
+				"url": "https://reputablejournal.com/2024/10/04/steam-off-the.html"
+			},
+			{
 				"id": "http://bnmnetp.micro.blog/2024/10/03/wellsfargo-must-be.html",
 				
 				"content_html": "<p>WellsFargo must be the leakiest CC company in the world.  Card compromised, ok, we&rsquo;ll send you a new card&hellip; New card compromised before I even activate it!  Now entering the bewildering world of choosing a new card company!  Thoughts?</p>\n",
@@ -17,8 +41,8 @@
 			{
 				"id": "http://bnmnetp.micro.blog/2024/09/21/bought-this-at.html",
 				
-				"content_html": "<p>Bought this at the Madison farmers market today!</p>\n\n<p><img src=\"uploads/2024/0d559aaedb.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Bought this at the Madison farmers market today!\n\n<img src=\"uploads/2024/0d559aaedb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Bought this at the Madison farmers market today!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/5380/2024/0d559aaedb.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Bought this at the Madison farmers market today!\n\n<img src=\"https://cdn.uploads.micro.blog/5380/2024/0d559aaedb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-21T13:09:44-05:00",
 				"url": "https://reputablejournal.com/2024/09/21/bought-this-at.html"
 			},
