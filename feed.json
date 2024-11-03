@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://bnmnetp.micro.blog/2024/10/31/lunch-stop-in.html",
+				
+				"content_html": "<p>Lunch stop in Victoria Springs. Nice little campground. Definitely a more scenic route through Nebraska than the interstate.</p>\n\n<p><img src=\"uploads/2024/ac3eb40c24.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Lunch stop in Victoria Springs. Nice little campground. Definitely a more scenic route through Nebraska than the interstate. \n\n\n<img src=\"uploads/2024/ac3eb40c24.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-10-31T13:07:55-05:00",
+				"url": "https://reputablejournal.com/2024/10/31/lunch-stop-in.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2024/10/31/leaving-spencer-iowa.html",
+				
+				"content_html": "<p>Leaving Spencer Iowa. Snow. Definitely time to head for the desert.</p>\n\n<p><img src=\"uploads/2024/bd64f0425e.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Leaving Spencer Iowa. Snow. Definitely time to head for the desert. \n\n<img src=\"uploads/2024/bd64f0425e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-10-31T07:35:08-05:00",
+				"url": "https://reputablejournal.com/2024/10/31/leaving-spencer-iowa.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2024/10/30/westward-ho.html",
+				
+				"content_html": "<p>Westward ho!!</p>\n",
+				"content_text": "Westward ho!!\n",
+				"date_published": "2024-10-30T12:57:16-05:00",
+				"url": "https://reputablejournal.com/2024/10/30/westward-ho.html"
+			},
+			{
 				"id": "http://bnmnetp.micro.blog/2024/10/27/so-conflicted-i.html",
 				
 				"content_html": "<p>So conflicted. I want Liverpool to stay ahead of city, but I don’t want Arsenal to fall way behind.</p>\n",
@@ -25,8 +49,8 @@
 			{
 				"id": "http://bnmnetp.micro.blog/2024/10/22/the-fruits-of.html",
 				
-				"content_html": "<p>The fruits of my first try at making bacon on the Traeger.  8 pounds of pork belly from Costco, 12 days of curing, and almost 4 hours of smoking led up to this delicious BLT sandwich for lunch.  Tomorrow night I&rsquo;m making Carbonara!</p>\n\n<p><img src=\"uploads/2024/img-0343.jpeg\" alt=\"\" title=\"IMG_0343.jpeg\" border=\"0\" width=\"450\" height=\"600\" /></p>\n",
-				"content_text": "The fruits of my first try at making bacon on the Traeger.  8 pounds of pork belly from Costco, 12 days of curing, and almost 4 hours of smoking led up to this delicious BLT sandwich for lunch.  Tomorrow night I'm making Carbonara!\n\n<img src=\"uploads/2024/img-0343.jpeg\" alt=\"\" title=\"IMG_0343.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n",
+				"content_html": "<p>The fruits of my first try at making bacon on the Traeger.  8 pounds of pork belly from Costco, 12 days of curing, and almost 4 hours of smoking led up to this delicious BLT sandwich for lunch.  Tomorrow night I&rsquo;m making Carbonara!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/5380/2024/img-0343.jpeg\" alt=\"\" title=\"IMG_0343.jpeg\" border=\"0\" width=\"450\" height=\"600\" /></p>\n",
+				"content_text": "The fruits of my first try at making bacon on the Traeger.  8 pounds of pork belly from Costco, 12 days of curing, and almost 4 hours of smoking led up to this delicious BLT sandwich for lunch.  Tomorrow night I'm making Carbonara!\n\n<img src=\"https://cdn.uploads.micro.blog/5380/2024/img-0343.jpeg\" alt=\"\" title=\"IMG_0343.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n",
 				"date_published": "2024-10-22T16:41:54-05:00",
 				"url": "https://reputablejournal.com/2024/10/22/the-fruits-of.html",
 				"tags": ["Cooking"]
@@ -74,8 +98,8 @@
 			{
 				"id": "http://bnmnetp.micro.blog/2024/10/10/northern-lights.html",
 				
-				"content_html": "<p>Northern lights</p>\n\n<p><img src=\"uploads/2024/cb5bd4a1b0.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Northern lights \n\n<img src=\"uploads/2024/cb5bd4a1b0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Northern lights</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/5380/2024/cb5bd4a1b0.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Northern lights \n\n<img src=\"https://cdn.uploads.micro.blog/5380/2024/cb5bd4a1b0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-10T20:31:46-05:00",
 				"url": "https://reputablejournal.com/2024/10/10/northern-lights.html"
 			},
