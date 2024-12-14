@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bnmnetp.micro.blog/2024/12/14/good-morning-to.html",
+				
+				"content_html": "<p>Good morning to try Peacock’s MultiView - Liverpool and Arsenal playing at the same time.</p>\n",
+				"content_text": "Good morning to try Peacock’s MultiView - Liverpool and Arsenal playing at the same time.\n",
+				"date_published": "2024-12-14T07:02:41-08:00",
+				"url": "https://reputablejournal.com/2024/12/14/good-morning-to.html"
+			},
+			{
+				"id": "http://bnmnetp.micro.blog/2024/12/11/wordle-a-nice.html",
+				
+				"content_html": "<p>Wordle 1,271 3/6*</p>\n\n<p>⬜⬜🟩⬜⬜<br />\n⬜⬜🟩⬜⬜<br />\n🟩🟩🟩🟩🟩<br />\nA nice inverted T</p>\n",
+				"content_text": "Wordle 1,271 3/6*\n\n⬜⬜🟩⬜⬜  \n⬜⬜🟩⬜⬜  \n🟩🟩🟩🟩🟩  \nA nice inverted T\n",
+				"date_published": "2024-12-11T06:57:20-08:00",
+				"url": "https://reputablejournal.com/2024/12/11/wordle-a-nice.html"
+			},
+			{
 				"id": "http://bnmnetp.micro.blog/2024/12/06/trying-advent-of.html",
 				
 				"content_html": "<p>Trying advent of code, in Rust,  but with help from GPT this year.  Definitely takes the sting out of coding in an unfamiliar language.  I&rsquo;m not interested in it solving the problem for me, just helping with the mechanics.</p>\n",
