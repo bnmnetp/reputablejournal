@@ -7,13 +7,13 @@
 	"items": [
 		
 			{
-				"id": "http://bnmnetp.micro.blog/2026/04/25/test-post-from-microsocial.html",
-				"title": "Test Post from Micro.social",
-				"content_html": "<p>Getting ready to travel and checking my options.  Wishing there was an iPad version of Mars Edit.</p>\n<p><img src=\"https://reputablejournal.com/uploads/2026/image-20260425-074537-c444d203.jpg\" alt=\"\"></p>\n",
-				"content_text": "Getting ready to travel and checking my options.  Wishing there was an iPad version of Mars Edit.\n\n![](https://reputablejournal.com/uploads/2026/image-20260425-074537-c444d203.jpg)\n",
-				"date_published": "2026-04-25T07:45:41-07:00",
-				"url": "https://reputablejournal.com/2026/04/25/test-post-from-microsocial.html",
-				"tags": ["article","Longform"]
+				"id": "http://bnmnetp.micro.blog/2026/04/26/first-stop-on-eastward-migration.html",
+				
+				"content_html": "<p>First stop on Eastward migration, Lake Havasu</p>\n",
+				"content_text": "First stop on Eastward migration, Lake Havasu\n",
+				"date_published": "2026-04-26T14:20:05-07:00",
+				"url": "https://reputablejournal.com/2026/04/26/first-stop-on-eastward-migration.html",
+				"tags": ["Microposts"]
 			},
 			{
 				"id": "http://bnmnetp.micro.blog/2026/04/12/death-valley-day-one.html",
