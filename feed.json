@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://bnmnetp.micro.blog/2026/05/27/places-ive-been.html",
+				"title": "Places I've Been",
+				"content_html": "<p>I had Claude go through this blog, and make a CSV of all the places we have travelled and written about.  Imported that as a google map that looks like this:</p>\n<!-- raw HTML omitted -->\n<p>I&rsquo;ll have to manually fill in some of the places it missed or places we have been before I started to blog, which promises to be quite the rabbit hole!</p>\n",
+				"content_text": "I had Claude go through this blog, and make a CSV of all the places we have travelled and written about.  Imported that as a google map that looks like this:\n\n<iframe src=\"https://www.google.com/maps/d/u/0/embed?mid=1eclVdSrWyHZrwByyGaeRsF9Nbuc6tL8&ehbc=2E312F&noprof=1\" width=\"640\" height=\"480\"></iframe>\n\nI'll have to manually fill in some of the places it missed or places we have been before I started to blog, which promises to be quite the rabbit hole!\n",
+				"date_published": "2026-05-27T13:58:54-05:00",
+				"url": "https://reputablejournal.com/2026/05/27/places-ive-been.html",
+				"tags": ["article","Longform"]
+			},
+			{
 				"id": "http://bnmnetp.micro.blog/2026/05/19/congrats-to-arsenal-fans-around.html",
 				
 				"content_html": "<p>Congrats to Arsenal fans around the world!</p>\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://bnmnetp.micro.blog/2026/05/05/did-not-expect-to-be.html",
 				
-				"content_html": "<p>Did not expect to be driving in snow today!</p>\n<p><img src=\"https://reputablejournal.com/uploads/2026/image-20260505-121727-8507adb1.jpg\" alt=\"\"></p>\n",
-				"content_text": "Did not expect to be driving in snow today!\n\n![](https://reputablejournal.com/uploads/2026/image-20260505-121727-8507adb1.jpg)\n",
+				"content_html": "<p>Did not expect to be driving in snow today!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/5380/2026/image-20260505-121727-8507adb1.jpg\" alt=\"\"></p>\n",
+				"content_text": "Did not expect to be driving in snow today!\n\n![](https://cdn.uploads.micro.blog/5380/2026/image-20260505-121727-8507adb1.jpg)\n",
 				"date_published": "2026-05-05T13:17:55-05:00",
 				"url": "https://reputablejournal.com/2026/05/05/did-not-expect-to-be.html",
 				"tags": ["Microposts"]
